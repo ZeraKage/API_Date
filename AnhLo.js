@@ -1,6 +1,5 @@
 {
     "data": {
-        "morning":{
             "1":"https://i.pinimg.com/originals/3a/ec/ca/3aeccaca37b026fbdb982f9f52ac202a.jpg",
             "2":"https://i.pinimg.com/originals/a3/06/7d/a3067db8cc83e0ebc0cae5dc5b713d62.jpg",
             "3":"https://i.pinimg.com/originals/11/f8/4f/11f84f85842b375b4694f1935b7d387a.jpg",
@@ -41,5 +40,4 @@
             "13":"https://i.pinimg.com/originals/db/68/ed/db68ed9d76cf885a05a5c2017d03d01c.jpg",
             "14":"https://a-static.besthdwallpaper.com/thanh-pho-ve-dem-hinh-nen-2400x1350-25174_50.jpg"
         }
-    }
 }

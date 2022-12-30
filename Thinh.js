@@ -72,8 +72,6 @@
 
             "36":"Ngày đó trời mưa lớn lắm, anh gặp được em, em không thấy anh, anh không thấy mưa.",
 
-            "1":"Đố em một con gấu bắc cực nặng bao nhiêu kg? (Thường thì các cô gái sẽ trả lời không) Đáp: Anh cũng không biết nhưng anh biết con gấu bắc cực đủ nặng để phá vỡ tảng băng giữa chúng ta.",
-
             "37":"Nếu mỗi lần nhớ tới em anh được 500 đồng chắc giờ này anh đã vượt xa Bill Gates.",
 
             "38":"Em có biết rằng anh nhớ em nhiều lắm không? Anh ăn không ngon nhưng ngủ như điên, anh đi giầy quên đi tất, ăn sáng quên đánh răng, anh dùng xăng vo gạo, anh khờ khạo cũng chỉ vì yêu em đó.",
@@ -196,6 +194,8 @@
 
             "97":"Nếu không có gì là mãi mãi, anh có thể là “không có gì” của em được không?.",
 
-            "98":"Anh có thể cho em mượn một nụ hôn được không? Em hứa là sẽ trả lại đầy đủ."
+            "98":"Anh có thể cho em mượn một nụ hôn được không? Em hứa là sẽ trả lại đầy đủ.",
+                
+            "99":"Đố em một con gấu bắc cực nặng bao nhiêu kg? (Thường thì các cô gái sẽ trả lời không) Đáp: Anh cũng không biết nhưng anh biết con gấu bắc cực đủ nặng để phá vỡ tảng băng giữa chúng ta."
     }
 }

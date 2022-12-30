@@ -39,7 +39,7 @@
             "37":"Nếu mỗi lần nhớ tới em anh được 500 đồng chắc giờ này anh đã vượt xa Bill Gates.",
             "38":"Em có biết rằng anh nhớ em nhiều lắm không? Anh ăn không ngon nhưng ngủ như điên, anh đi giầy quên đi tất, ăn sáng quên đánh răng, anh dùng xăng vo gạo, anh khờ khạo cũng chỉ vì yêu em đó.",
             "39":"Em ơi! Em là nghề gì đấy….? Sao đêm nào em cũng hiện lên trong giấc mơ của anh vậy? Anh chẳng biết làm thế nào nữa cả. Làm người yêu anh em nhé!.",
-            "40":"Em ơi ! Khi em đọc tin nhắn này, em nợ anh cuộc hẹn. Xóa tin nhắn này, em nợ anh cuộc tình. Lưu tin là em nợ anh 1 nụ hôn. Trả lời anh, em nợ anh tất cả. Còn nếu em không trả lời thì em đã yêu anh.",
+            "40":"Anh có thể cho em mượn một nụ hôn được không? Em hứa là sẽ trả lại đầy đủ.",
             "41":"Ðiều duy nhất đôi mắt em chưa nói cho anh biết là tên của em.",
             "42":"Anh thà được một lần địt em.",
             "43":"Chứng nghiện thức đêm cùng nỗi nhớ em, anh đã cố nhưng sửa không được.",
@@ -97,7 +97,6 @@
             "95":"Này anh gì ơi, anh có Anh hay Em Trai gì không? Em không tin là trên đời này có tận 2 thiên thần đâu!",
             "96":"Ai dám nói nơi hạnh phúc nhất là thiên đường. Người đó chắc hẳn không biết đến khoảnh khắc mỗi khi anh cười rồi!.",
             "97":"Nếu không có gì là mãi mãi, anh có thể là “không có gì” của em được không?.",
-            "98":"Anh có thể cho em mượn một nụ hôn được không? Em hứa là sẽ trả lại đầy đủ.",                
-            "99":"Đố em một con gấu bắc cực nặng bao nhiêu kg? (Thường thì các cô gái sẽ trả lời không) Đáp: Anh cũng không biết nhưng anh biết con gấu bắc cực đủ nặng để phá vỡ tảng băng giữa chúng ta."
+            "98":"Đố em một con gấu bắc cực nặng bao nhiêu kg? (Thường thì các cô gái sẽ trả lời không) Đáp: Anh cũng không biết nhưng anh biết con gấu bắc cực đủ nặng để phá vỡ tảng băng giữa chúng ta."
 	}
 }

@@ -14,36 +14,38 @@
     },
     {
       "name": "dao găm",
-      "price": "",
-      "description": "",
+      "price": "290 vàng",
+      "description": "+10% tốc độ đánh",
       "link": "https://i.imgur.com/clBWeT8.png"
     },
     {
       "name": "chùy cổ",
+      "price": "740 vàng",
+      "description": "+15% tốc độ đánh (Cuồng Bạo: Các đòn đánh tay tăng 10% tốc độ chạy. Nội tại duy nhất)",
       "link": "https://i.imgur.com/9kL8nVB.png"
     },
     {
       "name": "chùy xích",
-      "price": "",
-      "description": "",
+      "price": "450 vàng",
+      "description": "+40 cong vật lý",
       "link": "https://i.imgur.com/ZkvyqMR.png"
     },
     {
       "name": "chùy máu",
-      "price": "",
-      "description": "",
+      "price": "410 vàng",
+      "description": "+10% công vật lý và +8% hút máu",
       "link": "https://i.imgur.com/ZjZwDGE.png"
     },
     {
       "name": "găng tay",
-      "price": "",
-      "description": "",
+      "price": "300 vàng",
+      "description": "+8% tỉ lệ chí mạng",
       "link": "https://i.imgur.com/52eSuZh.png"
     },
     {
       "name": "đao truy hồn",
-      "price": "",
-      "description": "",
+      "price": "2000 vàng",
+      "description": "+100 công vật lý\n+10% giảm hồi chiêu\n+180 giáp (Tróc Nã: Sát thương trúng địch khiến mục tiêu bị giảm 40% khả năng hồi máu trong 1.5 giây và nếu sát thương từ đòn đánh thường hiệu lực kéo dài 3 giây. Nội tại duy nhất)",
       "link": "https://i.imgur.com/H6JIQf5.png"
     },
     {

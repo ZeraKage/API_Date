@@ -45,25 +45,25 @@
     {
       "name": "đao truy hồn",
       "price": "2000 vàng",
-      "description": "+100 công vật lý\n+10% giảm hồi chiêu\n+180 giáp (Tróc Nã: Sát thương trúng địch khiến mục tiêu bị giảm 40% khả năng hồi máu trong 1.5 giây và nếu sát thương từ đòn đánh thường hiệu lực kéo dài 3 giây.\nNội tại duy nhất)",
+      "description": "+100 công vật lý\n+10% giảm hồi chiêu\n+180 giáp \n(Tróc Nã: Sát thương trúng địch khiến mục tiêu bị giảm 40% khả năng hồi máu trong 1.5 giây và nếu sát thương từ đòn đánh thường hiệu lực kéo dài 3 giây.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/H6JIQf5.png"
     },
     {
       "name": "gươm uriel",
       "price": "2020 vàng",
-      "description": "+60 công vật lý\n+25% tốc đánh\n+180 giáp phép (Bảo hộ ma pháp: Khi Máu của tướng còn dưới 40%, Phong Ấn Uriel giúp tăng lá chắn trong 5 giây giúp chặn (500 + cấp tướng *100) sát thương phép và 25% kháng hiệu ứng, tăng 30% tốc chạy trong 2 giây; 75 giây hồi chiêu - Nội tại duy nhất Cuồng bạo: Đòn đánh thường tăng 10% tốc chạy.\nNội tại duy nhất)",
+      "description": "+60 công vật lý\n+25% tốc đánh\n+180 giáp phép \nn(Bảo hộ ma pháp: Khi Máu của tướng còn dưới 40%, Phong Ấn Uriel giúp tăng lá chắn trong 5 giây giúp chặn (500 + cấp tướng *100) sát thương phép và 25% kháng hiệu ứng, tăng 30% tốc chạy trong 2 giây; 75 giây hồi chiêu - Nội tại duy nhất Cuồng bạo: Đòn đánh thường tăng 10% tốc chạy.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/XxrgDUK.png"
     },
     {
       "name": "liềm đoạt mệnh",
       "price": "2000 vàng",
-      "description": "+60 công vật lý\n+5% giảm hồi chiêu (Thần linh can thiệp: Miễn nhiễm sát thương và tăng Tốc chạy thêm 20% trong 1 giây cho các tướng đánh gần và các tướng đánh xa, 90 giây hồi chiêu.\nNội tại duy nhất",
+      "description": "+60 công vật lý\n+5% giảm hồi chiêu \n(Thần linh can thiệp: Miễn nhiễm sát thương và tăng Tốc chạy thêm 20% trong 1 giây cho các tướng đánh gần và các tướng đánh xa, 90 giây hồi chiêu.\nNội tại duy nhất",
       "link": "https://i.imgur.com/B8x9F1o.png"
     },
     {
       "name": "phi tiêu",
       "price": "750 vàng",
-      "description": "+20% tốc độ đánh (Điểm yếu: Đòn đánh thường sẽ được tăng sát thương vật lý, thêm 20 (+1 mỗi cấp tướng) đối với tướng đánh gần hoặc gấp đôi với tướng đánh xa.\nNội tại duy nhất)",
+      "description": "+20% tốc độ đánh \n(Điểm yếu: Đòn đánh thường sẽ được tăng sát thương vật lý, thêm 20 (+1 mỗi cấp tướng) đối với tướng đánh gần hoặc gấp đôi với tướng đánh xa.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/9gfNvMM.png"
     },
     {
@@ -74,74 +74,74 @@
     },
     {
       "name": "thương đấu sĩ",
-      "price": "",
-      "description": "",
+      "price": "830 vàng",
+      "description": "+50 công vật lý\n+60 xuyên giáp\nNội tại duy nhất.",
       "link": "https://i.imgur.com/75P3REj.png"
     },
     {
       "name": "cung tà ma",
-      "price": "",
-      "description": "",
+      "price": "2300 vàng",
+      "description": "+ 90 công vật lý\n+ 10% hút máu\n+ 15% chí mạng \n(Hấp huyết: Tăng 90% hút máu với các vị tướng đánh xa kéo dài 3 giây (Thời gian hồi 60 giây)\nKích hoạt duy nhất)",
       "link": "https://i.imgur.com/dgaVOaO.png"
     },
     {
       "name": "gươm sấm sét",
-      "price": "",
-      "description": "",
+      "price": "1900 vàng",
+      "description": "+35% tốc đánh\n+15% tỷ lệ chí mạng\n+5% tốc chạy \n(Chớp giật: Khi đánh thường có 30% tỷ lệ kích hoạt Chớp giật, gây ( 135+25% công vật lý ) sát thương phép ( sát thương có thể chí mạng, hồi chiêu 0.35 giây )\nNội tại duy nhất)",
       "link": "https://i.imgur.com/PvZQtkz.png"
     },
     {
       "name": "kiếm fafnir",
-      "price": "",
-      "description": "",
+      "price": "2040 vàng",
+      "description": "+60 Công vật lý\n+30% Tốc đánh\n+10% Hút máu\n(Hơi thở rồng: Đòn đánh thường gây thêm sát thương vật lý tương đương 8% lượng máu hiện tại của mục tiêu, 0.3 giây hồi chiêu.\nNội tại duy nhất tối đa 80 lên quái rừng)",
       "link": "https://i.imgur.com/GCq26uV.png"
     },
     {
       "name": "kiếm muramasa",
-      "price": "",
-      "description": "",
+      "price": "2020",
+      "description": "+75 Công vật lý\n+10% Giảm hồi chiêu\n+45% Xuyên giáp\nNội tại duy nhất",
       "link": "https://i.imgur.com/UXE8Be0.png"
     },
     {
       "name": "nanh fenrir",
-      "price": "",
-      "description": "",
+      "price": "2950 vàng",
+      "description": "+200 Công vật lý\n(Chinh phạt: Khi máu của mục tiêu xuống dưới 50% sẽ chịu thêm 30% sát thương.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/xpwk1Mf.png"
     },
     {
       "name": "phức hợp kiếm",
-      "price": "",
-      "description": "",
+      "price": "2150 vàng",
+      "description": "+70 Công vật lý\n+]5% Tốc đánh\n+10% Giảm hồi chiêu\n+600 Máu tối đa\n(Sức mạnh nguyên tố: Trong vòng 5 giây sau khi tung chiêu, đòn đánh thường tiếp theo của tướng gây thêm (100% công vật lý) sát thương vật lý, 2 giây hồi chiêu.\nNội tại duy nhất\nCuồng bạo: Đòn đánh thường tăng 10% tốc chạy.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/wdYGe72.png"
     },
     {
       "name": "quỷ kiếm",
-      "price": "",
-      "description": "",
+      "price": "1740",
+      "description": "+100 Công vật lý\n+25% Hút máu\nNội tại duy nhất",
       "link": "https://i.imgur.com/zcAo8Ko.png"
     },
     {
       "name": "song đao bão táp",
-      "price": "",
-      "description": "",
+      "price": "1920 vàng",
+      "description": "+35% Tốc đánh\n+25% Tỷ lệ chí mạng\n+7% Tốc chạy \n(Cuồng phong: Tăng 35% Kháng hiệu ứng trong 2 giây sau khi chí mạng.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/aKa3GD7.png"
     },
     {
       "name": "thánh kiếm",
-      "price": "",
-      "description": "",
+      "price": "2120",
+      "description": "+100 Công vật lý\nNội tại duy nhất – Thánh kiếm: Sau khi đánh chí mạng giúp tăng ( 3- 45 ) tốc chạy trong 1.5 giây (chỉ có hiệu quả khi dùng với tướng đánh xa)\n+25% Tỷ lệ chí mạng - Nội tại duy nhất\nSát thương chí mạng tăng 50%- Nội tại duy nhất",
       "link": "https://i.imgur.com/CGfldGV.png"
     },
     {
       "name": "thương longinus",
-      "price": "",
-      "description": "",
+      "price": "2030 vàng",
+      "description": "+80 Công vật lý\n+15% Giảm hồi chiêu\n+500 Máu tối đa\n(Phá giáp: Cây sát thương sẽ trừ 60 Giáp của nạn nhân, cộng dồn lên đến 4 lần, kéo dài 5 giây.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/ddRLUkf.png"
     },
     {
       "name": "thương xuyên phá",
-      "price": "",
-      "description": "",
+      "price": "2020 vàng",
+      "description": "+110 Công vật lý\n(Khinh công: Rời khỏi trạng thái giao tranh giúp tăng 10% Tốc chạy - Nội tại duy nhất Nghiền ép: Tăng ( 40 + cấp tướng * 10) chỉ số Xuyên giáp.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/FcY7ZLq.png"
     },
     {

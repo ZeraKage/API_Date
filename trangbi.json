@@ -21,7 +21,7 @@
     {
       "name": "chùy cổ",
       "price": "740 vàng",
-      "description": "+15% tốc độ đánh (Cuồng Bạo: Các đòn đánh tay tăng 10% tốc độ chạy. Nội tại duy nhất)",
+      "description": "+15% tốc độ đánh (Cuồng Bạo: Các đòn đánh tay tăng 10% tốc độ chạy.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/9kL8nVB.png"
     },
     {
@@ -45,31 +45,31 @@
     {
       "name": "đao truy hồn",
       "price": "2000 vàng",
-      "description": "+100 công vật lý\n+10% giảm hồi chiêu\n+180 giáp (Tróc Nã: Sát thương trúng địch khiến mục tiêu bị giảm 40% khả năng hồi máu trong 1.5 giây và nếu sát thương từ đòn đánh thường hiệu lực kéo dài 3 giây. Nội tại duy nhất)",
+      "description": "+100 công vật lý\n+10% giảm hồi chiêu\n+180 giáp (Tróc Nã: Sát thương trúng địch khiến mục tiêu bị giảm 40% khả năng hồi máu trong 1.5 giây và nếu sát thương từ đòn đánh thường hiệu lực kéo dài 3 giây.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/H6JIQf5.png"
     },
     {
       "name": "gươm uriel",
-      "price": "",
-      "description": "",
+      "price": "2020 vàng",
+      "description": "+60 công vật lý\n+25% tốc đánh\n+180 giáp phép (Bảo hộ ma pháp: Khi Máu của tướng còn dưới 40%, Phong Ấn Uriel giúp tăng lá chắn trong 5 giây giúp chặn (500 + cấp tướng *100) sát thương phép và 25% kháng hiệu ứng, tăng 30% tốc chạy trong 2 giây; 75 giây hồi chiêu - Nội tại duy nhất Cuồng bạo: Đòn đánh thường tăng 10% tốc chạy.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/XxrgDUK.png"
     },
     {
       "name": "liềm đoạt mệnh",
-      "price": "",
-      "description": "",
+      "price": "2000 vàng",
+      "description": "+60 công vật lý\n+5% giảm hồi chiêu (Thần linh can thiệp: Miễn nhiễm sát thương và tăng Tốc chạy thêm 20% trong 1 giây cho các tướng đánh gần và các tướng đánh xa, 90 giây hồi chiêu.\nNội tại duy nhất",
       "link": "https://i.imgur.com/B8x9F1o.png"
     },
     {
       "name": "phi tiêu",
-      "price": "",
-      "description": "",
+      "price": "750 vàng",
+      "description": "+20% tốc độ đánh (Điểm yếu: Đòn đánh thường sẽ được tăng sát thương vật lý, thêm 20 (+1 mỗi cấp tướng) đối với tướng đánh gần hoặc gấp đôi với tướng đánh xa.\nNội tại duy nhất)",
       "link": "https://i.imgur.com/9gfNvMM.png"
     },
     {
       "name": "song đao",
-      "price": "",
-      "description": "",
+      "price": "780 vàng",
+      "description": "+25% tốc độ đánh\n+5% tốc độ chạy",
       "link": "https://i.imgur.com/kqmnJze.png"
     },
     {
